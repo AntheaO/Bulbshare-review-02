@@ -1,0 +1,9 @@
+# Site settings
+title: Blubshare Test Site
+author:
+name: PrimePixels
+email: pp@primepixels.media
+description: "Jekyll on GH-Pages"
+
+# Build settings
+theme: minima
